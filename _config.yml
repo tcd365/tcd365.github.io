@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Text-CARD
+description: The official examples of article "Temporal Scene-Text Calibrating and Distilling for Text-Video Retrieval"
+github:
+  is_project_page: false
