@@ -50,7 +50,7 @@
 
 <div class="video-grid">
   <div class="grid-item">
-    <div class="grid-header">Query Text: The gold medalist from the cycling sports branch is Jason Kenny.</div>
+    <div class="grid-header">Text Query: The gold medalist from the cycling sports branch is Jason Kenny.</div>
     <div class="grid-video">
       <video controls width="330" height="170">
         <source src="video/5jKLoEt7RBg_00000_00010.mp4" type="video/mp4">
@@ -59,7 +59,7 @@
     </div>
   </div>
   <div class="grid-item">
-    <div class="grid-header">Query Text: The store TESCO express offers fresh vegetables.</div>
+    <div class="grid-header">Text Query: The store TESCO express offers fresh vegetables.</div>
     <div class="grid-video">
       <video controls width="330" height="170">
         <source src="video/i-DkWPfL4N4_00090_00105.mp4" type="video/mp4">
