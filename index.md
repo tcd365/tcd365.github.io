@@ -62,7 +62,7 @@
     <div class="grid-header">Query Text: The store TESCO express offers fresh vegetables.</div>
     <div class="grid-video">
       <video controls width="330" height="170">
-        <source src="video/i-DkWPfL4N4_00090_00105_.mp4" type="video/mp4">
+        <source src="video/i-DkWPfL4N4_00090_00105.mp4" type="video/mp4">
       </video>
       <span class="video-label">Target Video</span>
     </div>
