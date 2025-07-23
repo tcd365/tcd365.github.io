@@ -62,16 +62,7 @@
     <div class="grid-header">Query Text: The store TESCO express offers fresh vegetables.</div>
     <div class="grid-video">
       <video controls width="330" height="170">
-        <source src="video/i-DkWPfL4N4_00090_00105.mp4" type="video/mp4">
-      </video>
-      <span class="video-label">Target Video</span>
-    </div>
-  </div>
-  <div class="grid-item">
-    <div class="grid-header">Query Text: The lady suddenly points her finger at a yellow shelf with a Low Price label stuck on it and began expressing her thoughts.</div>
-    <div class="grid-video">
-      <video controls width="330" height="170">
-        <source src="video/_YLjNQpWjuM_00000_00010.mp4" type="video/mp4">
+        <source src="video/i-DkWPfL4N4_00090_00105_.mp4" type="video/mp4">
       </video>
       <span class="video-label">Target Video</span>
     </div>
