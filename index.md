@@ -151,7 +151,7 @@ score, calculated as the average of text-OCR, text-video, and text-hybrid matchi
 
 <div style="overflow-x:auto;">
   <img src="images/pdf/appendix.png" width="100%">
-  <div style="text-align:center; font-style:italic;">Scroll to view more</div>
+  <div style="text-align:center; font-style:italic;"></div>
 </div>
 
 
